@@ -1,0 +1,27 @@
+{
+    "folders": [
+        {
+            "name": "Contaxsia C Implementation",
+            "path": "contaxsia_c"
+        },
+        {
+            "name": "Contaxsia Rust Implementation",
+            "path": "contaxsia_rust"
+        }
+    ],
+    "settings": {
+        // These are global settings for all folders in the workspace.
+        //
+        // Note that these cause the excluded files to be invisible in the Explorer view. You
+        // might not want that if you use Visual Studio Code to edit these files directly.
+        //
+        //"files.exclude": {
+        //    "**/.vscode": true,
+        //    "**/.idea": true,
+        //    "**/build": true
+        //},
+
+        // Example: Set a default language for new files
+        "files.defaultLanguage": "markdown"
+    }
+}
