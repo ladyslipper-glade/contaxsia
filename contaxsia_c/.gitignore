@@ -1,4 +1,5 @@
 build
+.cache
 
 #####
 # The following list was suggested by Gemini, but it is likely overkill.
